@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Lucas Oliveira
 
-<!--
-**LucasB-Oliveira/LucasB-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estou cursando **JavaScript, Node.js e ReactJS** e sempre buscando evoluir com projetos práticos e desafios técnicos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Objetivo
+
+Atuar em uma empresa onde eu possa contribuir com minhas habilidades técnicas, crescer profissionalmente e trabalhar em equipe para desenvolver soluções eficientes e inovadoras.
+
+---
+
+🧠 Habilidades e Tecnologias
+
+- ✅ Python, PHP, HTML, CSS, JavaScript
+- ✅ Node.js (cursando), ReactJS (cursando)
+- ✅ Banco de dados: MySQL, SQLite
+- ✅ Git e GitHub
+
+
+---
+
+🎓 Formação Acadêmica
+
+- 📘 Curso Superior de Tecnologia em **Análise e Desenvolvimento de Sistemas**  
+  *Faculdade Estácio*
+
+- 📚 Cursos complementares:  
+  - PHP, Python, CSS, HTML, MySQL – *Udemy*  
+  - JavaScript, Node.js, ReactJS – *RocketSeat (em andamento)*
+
+---
+
+📫 Contato
+
+- 📍 Juiz de Fora – MG  
+- 📧 Email: lucasjf25@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lucas-oliveira-71a4a9276/)
+
+---
+
+> ⚡ *Obrigado por visitar meu perfil! Estou sempre disponível para novas conexões, colaborações e oportunidades!*
