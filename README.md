@@ -3,18 +3,23 @@
 Atualmente estou cursando **JavaScript, Node.js e ReactJS** e sempre buscando evoluir com projetos práticos e desafios técnicos.
 
 ---
-
+<div align="center">
+ 
 🎯 Objetivo
 
 Atuar em uma empresa onde eu possa contribuir com minhas habilidades técnicas, crescer profissionalmente e trabalhar em equipe para desenvolver soluções eficientes e inovadoras.
 
 ---
+<div align="center">
+ 
 🎓 Formação Acadêmica
 
 - 📘 Curso Superior de Tecnologia em **Análise e Desenvolvimento de Sistemas**  
   *Faculdade Estácio*
 
 ---
+<div align="center">
+ 
 🧠 Habilidades e Tecnologias
 
 - ✅ Python, PHP, HTML, CSS
@@ -25,6 +30,7 @@ Atuar em uma empresa onde eu possa contribuir com minhas habilidades técnicas, 
 ---
 
 <div align="center">
+ 
 🌐 Conecte-se comigo
 
 <p align="center">
@@ -33,11 +39,12 @@ Atuar em uma empresa onde eu possa contribuir com minhas habilidades técnicas, 
   </a>
 </p>
 
-- 📍 Juiz de Fora – MG  
-- 📧 Email: lucasjf25@gmail.com
+📍 Juiz de Fora – MG  
+📧 Email: lucasjf25@gmail.com
   
 ---
 <div align="center">
+ 
  💻 Idiomas e Ferramentas
 
 <p align="center">
