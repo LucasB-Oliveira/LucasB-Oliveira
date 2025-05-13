@@ -8,31 +8,31 @@ Atualmente estou cursando **JavaScript, Node.js e ReactJS** e sempre buscando ev
 
 ---
 
-🎯 Objetivo
+## 🎯 Objetivo
 
 Atuar em uma empresa onde eu possa contribuir com minhas habilidades técnicas, crescer profissionalmente e trabalhar em equipe para desenvolver soluções eficientes e inovadoras.
 
 ---
  
-🎓 Formação Acadêmica
+## 🎓 Formação Acadêmica
 
- 📘 Curso Superior de Tecnologia em **Análise e Desenvolvimento de Sistemas**  
+ - 📘 Curso Superior de Tecnologia em **Análise e Desenvolvimento de Sistemas**  
   *Faculdade Estácio*
 
 ---
  
-🧠 Habilidades e Tecnologias
+## 🧠 Habilidades e Tecnologias
 
- ✅ Python, PHP, HTML, CSS
- ✅ JavaScript(cursando) Node.js (cursando), ReactJS (cursando)
- ✅ Banco de dados: MySQL, SQLite
- ✅ Git e GitHub
+- ✅ Python, PHP, HTML, CSS
+- ✅ JavaScript(cursando) Node.js (cursando), ReactJS (cursando)
+- ✅ Banco de dados: MySQL, SQLite
+- ✅ Git e GitHub
 
 ---
 
 <div align="center">
  
-🌐 Conecte-se comigo
+## 🌐 Conecte-se comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-oliveira-71a4a9276/" target="_blank">
