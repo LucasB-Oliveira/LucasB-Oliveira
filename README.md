@@ -7,14 +7,12 @@
 Atualmente estou cursando **JavaScript, Node.js e ReactJS** e sempre buscando evoluir com projetos práticos e desafios técnicos.
 
 ---
-<div align="center">
- 
+
 🎯 Objetivo
 
 Atuar em uma empresa onde eu possa contribuir com minhas habilidades técnicas, crescer profissionalmente e trabalhar em equipe para desenvolver soluções eficientes e inovadoras.
 
 ---
-<div align="center">
  
 🎓 Formação Acadêmica
 
@@ -22,7 +20,6 @@ Atuar em uma empresa onde eu possa contribuir com minhas habilidades técnicas, 
   *Faculdade Estácio*
 
 ---
-<div align="center">
  
 🧠 Habilidades e Tecnologias
 
