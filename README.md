@@ -1,6 +1,4 @@
-<div align="center">
- 
- 👋 Olá, eu sou o Lucas Oliveira
+👋 Olá, eu sou o Lucas Oliveira
 
 Atualmente estou cursando **JavaScript, Node.js e ReactJS** e sempre buscando evoluir com projetos práticos e desafios técnicos.
 
