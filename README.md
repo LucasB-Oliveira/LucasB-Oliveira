@@ -1,4 +1,6 @@
-# 👋 Olá, eu sou o Lucas Oliveira
+<div align="center">
+ 
+ 👋 Olá, eu sou o Lucas Oliveira
 
 Atualmente estou cursando **JavaScript, Node.js e ReactJS** e sempre buscando evoluir com projetos práticos e desafios técnicos.
 
@@ -14,7 +16,7 @@ Atuar em uma empresa onde eu possa contribuir com minhas habilidades técnicas, 
  
 🎓 Formação Acadêmica
 
-- 📘 Curso Superior de Tecnologia em **Análise e Desenvolvimento de Sistemas**  
+ 📘 Curso Superior de Tecnologia em **Análise e Desenvolvimento de Sistemas**  
   *Faculdade Estácio*
 
 ---
@@ -22,10 +24,10 @@ Atuar em uma empresa onde eu possa contribuir com minhas habilidades técnicas, 
  
 🧠 Habilidades e Tecnologias
 
-- ✅ Python, PHP, HTML, CSS
-- ✅ JavaScript(cursando) Node.js (cursando), ReactJS (cursando)
-- ✅ Banco de dados: MySQL, SQLite
-- ✅ Git e GitHub
+ ✅ Python, PHP, HTML, CSS
+ ✅ JavaScript(cursando) Node.js (cursando), ReactJS (cursando)
+ ✅ Banco de dados: MySQL, SQLite
+ ✅ Git e GitHub
 
 ---
 
