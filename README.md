@@ -46,7 +46,7 @@ Atuar em uma empresa onde eu possa contribuir com minhas habilidades técnicas, 
 ---
 <div align="center">
  
- 💻 Idiomas e Ferramentas
+ ## 💻 Idiomas e Ferramentas
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
