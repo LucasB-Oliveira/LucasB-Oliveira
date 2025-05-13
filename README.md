@@ -9,25 +9,18 @@ Atualmente estou cursando **JavaScript, Node.js e ReactJS** e sempre buscando ev
 Atuar em uma empresa onde eu possa contribuir com minhas habilidades técnicas, crescer profissionalmente e trabalhar em equipe para desenvolver soluções eficientes e inovadoras.
 
 ---
+🎓 Formação Acadêmica
 
+- 📘 Curso Superior de Tecnologia em **Análise e Desenvolvimento de Sistemas**  
+  *Faculdade Estácio*
+
+---
 🧠 Habilidades e Tecnologias
 
 - ✅ Python, PHP, HTML, CSS
 - ✅ JavaScript(cursando) Node.js (cursando), ReactJS (cursando)
 - ✅ Banco de dados: MySQL, SQLite
 - ✅ Git e GitHub
-
-
----
-
-🎓 Formação Acadêmica
-
-- 📘 Curso Superior de Tecnologia em **Análise e Desenvolvimento de Sistemas**  
-  *Faculdade Estácio*
-
-- 📚 Cursos complementares:  
-  - PHP, Python, CSS, HTML, MySQL – *Udemy*  
-  - JavaScript, Node.js, ReactJS – *RocketSeat (em andamento)*
 
 ---
 
