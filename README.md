@@ -24,7 +24,8 @@ Atuar em uma empresa onde eu possa contribuir com minhas habilidades técnicas, 
 
 ---
 
-                                    ## 🌐 Conecte-se comigo
+<div align="center">
+🌐 Conecte-se comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-oliveira-71a4a9276/" target="_blank">
@@ -36,8 +37,8 @@ Atuar em uma empresa onde eu possa contribuir com minhas habilidades técnicas, 
 - 📧 Email: lucasjf25@gmail.com
   
 ---
-
-                                  ## 💻 Idiomas e Ferramentas
+<div align="center">
+ 💻 Idiomas e Ferramentas
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
