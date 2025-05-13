@@ -12,8 +12,8 @@ Atuar em uma empresa onde eu possa contribuir com minhas habilidades técnicas, 
 
 🧠 Habilidades e Tecnologias
 
-- ✅ Python, PHP, HTML, CSS, JavaScript
-- ✅ Node.js (cursando), ReactJS (cursando)
+- ✅ Python, PHP, HTML, CSS
+- ✅ JavaScript(cursando) Node.js (cursando), ReactJS (cursando)
 - ✅ Banco de dados: MySQL, SQLite
 - ✅ Git e GitHub
 
